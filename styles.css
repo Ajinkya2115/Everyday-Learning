@@ -12,3 +12,29 @@ hr {
 h1 {
   color: #30475e;
 }
+
+.cls {
+	background-color: blue;
+}
+
+#para {
+	background-color: red;
+}
+
+.circular {
+	border-radius: 100%;
+}
+
+.border {
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(https://www.pinpng.com/pngs/m/10-104453_kakashi-transparent-images-kakashi-hatake-water-dragon-hd.png) 30 stretch;
+}
+
+div.active p:hover {
+	background-color: gold;
+}
+
+#awesome {
+	height: 200px;
+}
